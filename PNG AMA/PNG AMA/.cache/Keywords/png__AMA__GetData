@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "7D5D4A7564A20C81A4265BF638E1C1BA",
+  "keywordClasses": [
+    {
+      "name": "png.AMA.GetData",
+      "keywordMethods": [
+        {
+          "name": "getData",
+          "parameters": [
+            {
+              "name": "column_name",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
